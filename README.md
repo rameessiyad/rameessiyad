@@ -8,12 +8,12 @@ With expertise in both front-end and back-end technologies, I aim to deliver hig
 Front-End:
 
 React.js, Next.js, React Native
-Redux Toolkit
+Redux Toolkit,
 Tailwind CSS, Bootstrap, Sass
 Back-End:
 
 Node.js, Express.js, NestJS
-MongoDB, MySQL, PHP
+MongoDB, MySQL, Prisma ORM, Docker, PHP
 Languages:
 
 JavaScript, Python
