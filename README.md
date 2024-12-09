@@ -12,7 +12,7 @@ Redux Toolkit,
 Tailwind CSS, Bootstrap, Sass
 Back-End:
 
-Node.js, Express.js, NestJS
+Node.js, Express.js, Nest.js,
 MongoDB, MySQL, Prisma ORM, Docker, PHP
 Languages:
 
