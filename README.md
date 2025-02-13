@@ -53,7 +53,6 @@
 <p align="center">
   🔹 **E-Commerce App** - Built with React, Redux, and MongoDB <br>
   🔹 **Blog Platform** - MERN stack with authentication and user roles <br>
-  🔹 **Mobile Chat App** - React Native + Firebase for real-time messaging  
 </p>
 
 ---
@@ -66,7 +65,7 @@
   <a href="https://linkedin.com/in/rameessiyad">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/Rameessiyad26">
+  <a href="https://github.com/rameessiyad">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github">
   </a>
 </p>
