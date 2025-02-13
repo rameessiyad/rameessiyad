@@ -3,12 +3,8 @@
 </h1>  
 
 <p align="center">  
-  🚀 Self-taught Full-Stack Developer | Passionate about building scalable and user-friendly web applications  
+   Self-taught Full-Stack Developer | Passionate about building scalable and user-friendly web applications  
 </p>  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rameessiyad/rameessiyad/main/banner.png" alt="Banner Image" width="100%"/>  
-</p>
 
 ---
 
