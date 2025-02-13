@@ -7,7 +7,7 @@
 </p>  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rameessiyad26/Rameessiyad26/main/banner.png" alt="Banner Image" width="100%"/>  
+  <img src="https://raw.githubusercontent.com/rameessiyad/rameessiyad/main/banner.png" alt="Banner Image" width="100%"/>  
 </p>
 
 ---
