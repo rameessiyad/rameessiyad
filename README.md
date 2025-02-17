@@ -51,7 +51,7 @@
 
 ## 🚀 Featured Projects  
 <p align="center">
-  🔹 **E-Commerce App** - Built with React, Redux, and MongoDB <br>
+  🔹 **We-Chat** - Real Time chat application <br>
   🔹 **Blog Platform** - MERN stack with authentication and user roles <br>
 </p>
 
