@@ -65,7 +65,5 @@
   <a href="www.linkedin.com/in/ramees-m-siyad">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/rameessiyad">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github">
-  </a>
+
 </p>
