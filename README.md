@@ -3,7 +3,7 @@
 </h1>  
 
 <p align="center">  
-  Self-taught Full-Stack Developer | Focused on building scalable, performant, and user-friendly web & mobile applications  
+  Experienced Full-Stack Developer | Focused on building scalable, performant, and user-friendly web & mobile applications  
 </p>  
 
 ---
