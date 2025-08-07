@@ -3,7 +3,7 @@
 </h1>  
 
 <p align="center">  
-  Experienced Full-Stack Developer | Focused on building scalable, performant, and user-friendly web & mobile applications  
+  Experienced Full-Stack Developer, Mobile App Developer, Web Designer | Focused on building scalable, performant, and user-friendly web & mobile applications  
 </p>  
 
 ---
