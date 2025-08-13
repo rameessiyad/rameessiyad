@@ -20,7 +20,7 @@
       <img src="https://redux.js.org/img/redux.svg" width="50"/><br/>Redux Toolkit
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50"/><br/>Tailwind CSS
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="50"/><br/>Tailwind CSS
     </td>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/><br/>Bootstrap
@@ -31,7 +31,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>React Native
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/expo/expo/main/.github/resources/banner.png" width="50"/><br/>Expo
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Expo_Logo.png" width="50"/><br/>Expo
     </td>
     <td align="center" width="100">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/><br/>Firebase
@@ -45,10 +45,10 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="50"/><br/>Nest.js
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" width="50"/><br/>Nest.js
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.worldvectorlogo.com/logos/grpc.svg" width="50"/><br/>gRPC
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/gRPC-Dark.svg" width="50"/><br/>gRPC
     </td>
     <td align="center" width="100">
       <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" width="50"/><br/>Sequelize ORM
@@ -74,10 +74,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br/>Git
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/><br/>AWS
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="50"/><br/>AWS
     </td>
   </tr>
 </table>
+
 
 ---
 
