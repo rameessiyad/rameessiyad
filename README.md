@@ -1,10 +1,8 @@
-<h1 align="center">  
-  Hi, I'm Ramees M Siyad  
-</h1>  
-
-<p align="center">  
-  Experienced Full-Stack Developer, Mobile App Developer, Web Designer | Focused on building scalable, performant, and user-friendly web & mobile applications  
-</p>  
+<h1 align="center">👋 Hi, I'm Ramees M Siyad</h1>  
+<h3 align="center">Full-Stack Developer | Mobile App Developer | Web Designer</h3>  
+<p align="center">
+🚀 Passionate about building scalable, performant, and user-friendly web & mobile applications.
+</p>
 
 ---
 
@@ -46,6 +44,18 @@
 
 ---
 
+## 📊 GitHub Statistics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rameessiyad&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameessiyad&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameessiyad&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
 ## 📫 Connect with Me  
 <p align="center">
   <a href="mailto:rameessiyad26@gmail.com">
@@ -55,3 +65,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>  
+
+---
+
+⭐ **Fun Fact:** I love exploring new tech, traveling, and blending creativity with problem-solving!  
