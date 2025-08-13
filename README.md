@@ -48,7 +48,7 @@
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" width="50"/><br/>Nest.js
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/gRPC-Dark.svg" width="50"/><br/>gRPC
+      <img src="https://grpc.io/img/logos/grpc-icon-color.png" width="50"/><br/>gRPC
     </td>
     <td align="center" width="100">
       <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" width="50"/><br/>Sequelize ORM
@@ -78,6 +78,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
