@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ramees M Siyad</h1>  
 <h3 align="center">Full-Stack Developer | Mobile App Developer | Web Designer</h3>  
 <p align="center">
-🚀 Passionate about building scalable, performant, and user-friendly web & mobile applications.
+Passionate about building scalable, performant, and user-friendly web & mobile applications.
 </p>
 
 ---
