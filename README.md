@@ -1,114 +1,33 @@
-<!-- ===================== HEADER (animated wave) ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ramees%20M%20Siyad&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20Mobile%20%E2%80%A2%20Web%20Design&descSize=20&descAlignY=60" width="100%"/>
-</p>
+name: Generate Snake
 
-<!-- ===================== TYPING ANIMATION ===================== -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=640&height=50&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;Web+Designer+%F0%9F%8E%A8;Building+scalable%2C+performant+apps+%E2%9A%A1" alt="Typing SVG" />
-  </a>
-</p>
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rameessiyad&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/rameessiyad?style=for-the-badge&logo=github&color=0ea5e9&labelColor=0f172a" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=for-the-badge&labelColor=0f172a" alt="Open to work"/>
-</p>
+permissions:
+  contents: write
 
-<p align="center">
-  Passionate about building <b>scalable</b>, <b>performant</b> and <b>user-friendly</b> web &amp; mobile applications.
-</p>
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
----
-
-## 👨‍💻 About Me
-
-```js
-const ramees = {
-  name: "Ramees M Siyad",
-  role: ["Full-Stack Developer", "Mobile App Developer", "Web Designer"],
-  focus: ["React / Next.js", "React Native / Expo", "Node.js / NestJS"],
-  currentlyLearning: ["System Design", "gRPC & Microservices", "Cloud on AWS"],
-  funFact: "I blend creativity with problem-solving ✨",
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-<h3 align="center">🎨 Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css,js,ts&theme=dark" alt="Frontend"/>
-</p>
-
-<h3 align="center">📱 Mobile</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo,firebase&theme=dark" alt="Mobile"/>
-  <br/>
-  <sub>React Native &bull; Expo &bull; Firebase</sub>
-</p>
-
-<h3 align="center">⚙️ Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php&theme=dark" alt="Backend"/>
-  <br/>
-  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC"/>
-</p>
-
-<h3 align="center">🗄️ Databases &amp; ORMs</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,sequelize&theme=dark" alt="Databases"/>
-</p>
-
-<h3 align="center">☁️ DevOps &amp; Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,postman,vscode,figma&theme=dark" alt="DevOps"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rameessiyad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=e2e8f0&border_radius=12" alt="Stats"/>
-  <img height="170" src="https://streak-stats.demolab.com/?user=rameessiyad&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=38bdf8&border_radius=12" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameessiyad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&border_radius=12" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rameessiyad&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=38bdf8&area=true&area_color=7c3aed" width="100%" alt="Activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rameessiyad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:rameessiyad26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ramees-m-siyad">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/rameessiyad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  ⭐ <b>Fun Fact:</b> I love exploring new tech, traveling, and blending creativity with problem-solving!
-</p>
-
-<!-- ===================== FOOTER (animated wave) ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</p>
+      - name: Push to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
