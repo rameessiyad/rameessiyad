@@ -29,7 +29,7 @@ const ramees = {
   name: "Ramees M Siyad",
   role: ["Full-Stack Developer", "Mobile App Developer", "Web Designer"],
   focus: ["React / Next.js", "React Native / Expo", "Node.js / NestJS"],
-  currentlyLearning: ["System Design", "gRPC & Microservices", "Cloud on AWS"],
+  currentlyLearning: ["System Design", "FDE", "AI"],
   funFact: "I blend creativity with problem-solving",
 };
 ```
